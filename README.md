@@ -1,5 +1,5 @@
 ﻿# ✔️ Cae.Utils.MappedExceptions
-☕ Microsoft.NET edition
+C# Microsoft.NET edition
 
 <br>
 
