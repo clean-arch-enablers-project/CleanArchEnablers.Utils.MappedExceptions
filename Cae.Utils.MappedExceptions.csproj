@@ -4,6 +4,9 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Cae.Utils.MappedExceptions</PackageId>
+    <Title>Cae.Utils.MappedExceptions</Title>
   </PropertyGroup>
 
 </Project>
