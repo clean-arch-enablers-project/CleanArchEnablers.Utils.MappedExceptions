@@ -5,8 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageId>Cae.Utils.MappedExceptions</PackageId>
-    <Title>Cae.Utils.MappedExceptions</Title>
+    <PackageId>CleanArchEnablers.Utils.MappedExceptions</PackageId>
+    <Title>MappedExceptions for Cae Framework</Title>
     <Authors>Gabriel Araújo Lima, José Lúcio Junior</Authors>
     <Description>Mapped Exceptions for CAE Framework</Description>
     <RepositoryUrl>https://github.com/clean-arch-enablers-project/Cae.Utils.MappedExceptions</RepositoryUrl>
