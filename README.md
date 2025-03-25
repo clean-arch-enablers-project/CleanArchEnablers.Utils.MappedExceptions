@@ -8,7 +8,7 @@ Welcome to the repository for the open source CAE Mapped Exceptions library!
 ### ▶️ The NuGet Package:
 ```xml
 <ItemGroup>
-    <PackageReference Include="Cae.Utils.MappedExceptions" Version="${LatestVersion}">
+    <PackageReference Include="CleanArchEnablers.Utils.MappedExceptions" Version="${LatestVersion}">
 </ItemGroup>
 ```
 
