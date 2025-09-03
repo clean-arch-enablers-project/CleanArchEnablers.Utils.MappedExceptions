@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Cae.Utils.MappedExceptions
+namespace CleanArchEnablers.Utils.MappedExceptions
 {
     public class MappedException : Exception
     {

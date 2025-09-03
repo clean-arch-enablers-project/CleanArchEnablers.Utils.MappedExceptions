@@ -1,10 +1,11 @@
-﻿using System;
+﻿using CleanArchEnablers.Utils.MappedExceptions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cae.Utils.MappedExceptions.Specifics
+namespace CleanArchEnablers.Utils.MappedExceptions.Specifics
 {
     public class InputMappedException : MappedException
     {
