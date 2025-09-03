@@ -11,6 +11,7 @@
     <Description>Mapped Exceptions for CAE Framework</Description>
     <RepositoryUrl>https://github.com/clean-arch-enablers-project/Cae.Utils.MappedExceptions</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
