@@ -9,9 +9,17 @@
     <Title>MappedExceptions for Cae Framework</Title>
     <Authors>Gabriel Araújo Lima, José Lúcio Junior</Authors>
     <Description>Mapped Exceptions for CAE Framework</Description>
-    <RepositoryUrl>https://github.com/clean-arch-enablers-project/Cae.Utils.MappedExceptions</RepositoryUrl>
+    <RepositoryUrl>https://github.com/clean-arch-enablers-project/CleanArchEnablers.Utils.MappedExceptions</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <Version>1.0.1</Version>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
